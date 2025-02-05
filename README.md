@@ -5,3 +5,8 @@ Este projeto utiliza visão computacional para contar caixas em paletes a partir
 ## Requisitos
 - Python 3.7 ou superior
 - Bibliotecas listadas em `requirements.txt`
+
+## Instruções de Uso
+
+
+## Demonstração
